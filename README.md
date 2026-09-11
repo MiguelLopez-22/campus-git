@@ -16,3 +16,6 @@
 
 **R//** De los que hice creo que el commit más claro es el de "Feat: cambio de mensaje en CampusStatus.java", porque
         se entiende claramente que hice y dónde lo hice.
+
+
+**Cambio desde GitHub con creación de commit**
