@@ -1,4 +1,4 @@
-# Proyecto Backend Taller 3
+# Backend Taller 3
 
 ** Taller 2 - Backend **
 
